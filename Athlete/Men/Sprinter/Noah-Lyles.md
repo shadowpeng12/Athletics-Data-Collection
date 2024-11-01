@@ -11,7 +11,7 @@
 |      **运动员代码**      |                         **14536762**                         |
 | **世界田联的运动员主页** | [Noah Lyles \| Profile \| World Athletics](https://worldathletics.org/athletes/united-states/noah-lyles-14536762) |
 
-**页面跳转：**[个人最佳](## 个人最佳) | [荣誉列举](## 荣誉列举) | [成绩汇总](## 成绩汇总) | [TOP10](## TOP10)
+**页面跳转：**[个人最佳](#个人最佳) | [荣誉列举](#荣誉列举) | [成绩汇总](#成绩汇总) | [TOP10](#TOP10)
 
 ## 个人最佳
 
@@ -36,7 +36,7 @@
 - **如果不知道比赛名，只会标上比赛地点**
 - **世锦赛、奥运会项目全部加粗**
 
-**页面跳转：**[个人最佳](## 个人最佳) | [荣誉列举](## 荣誉列举) | [成绩汇总](## 成绩汇总) | [TOP10](## TOP10)
+**页面跳转：**[个人最佳](#个人最佳) | [荣誉列举](#荣誉列举) | [成绩汇总](#成绩汇总) | [TOP10](#TOP10)
 
 ## 荣誉列举
 
@@ -123,20 +123,20 @@
 | 2024, 格拉斯哥 |  60米   | :2nd_place_medal: |  6.44   |
 | 2024, 格拉斯哥 | 4x400米 | :2nd_place_medal: | 3:02.60 |
 
-**页面跳转：**[个人最佳](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E4%B8%AA%E4%BA%BA%E6%9C%80%E4%BD%B3) | [荣誉列举](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E8%8D%A3%E8%AA%89%E5%88%97%E4%B8%BE) | [成绩汇总](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E6%88%90%E7%BB%A9%E6%B1%87%E6%80%BB)
+**页面跳转：**[个人最佳](#个人最佳) | [荣誉列举](#荣誉列举) | [成绩汇总](#成绩汇总) | [TOP10](#TOP10)
 
 ## 成绩汇总
 
 <details>
 <summary>年份选择</summary>
 
-- [2024](### 2024)
+- [2024](#2024)
 
-- [2023](### 2023)
+- [2023](#2023)
 
-- [2022](### 2022)
+- [2022](#2022)
 
-- [2021](### 2021)
+- [2021](#2021)
 
 </details>
 
