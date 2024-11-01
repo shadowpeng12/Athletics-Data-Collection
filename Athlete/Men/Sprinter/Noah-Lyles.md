@@ -11,7 +11,7 @@
 |      **运动员代码**      |                         **14536762**                         |
 | **世界田联的运动员主页** | [Noah Lyles \| Profile \| World Athletics](https://worldathletics.org/athletes/united-states/noah-lyles-14536762) |
 
-**页面跳转：**[个人最佳](##个人最佳) | [荣誉列举](##荣誉列举) | [成绩汇总](##成绩汇总) | [TOP10](##TOP10)
+**页面跳转：**[个人最佳](#个人最佳) | [荣誉列举](#荣誉列举) | [成绩汇总](#成绩汇总) | [TOP10](#TOP10)
 
 ## 个人最佳
 
