@@ -352,4 +352,4 @@
 | 2022.08.26 |  钻石联赛 - 洛桑站   |  瑞士  | 19.56(+1.3) |  1   |    GW    |
 | 2022.06.12 |      纽约大奖赛      |  美国  | 19.61(+1.3) |  1   |    A     |
 
-[回到顶部](https://github.com/shadowpeng12/Athletics-Data-Collection/edit/main/Athlete/Men/Sprinter/Noah-Lyles.md#Noah Lyles)
+[回到顶部](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#noah-lyles)
