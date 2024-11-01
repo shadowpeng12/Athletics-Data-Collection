@@ -37,11 +37,11 @@
 
 ## 荣誉列举
 
-- <b>奥运:1st_place_medal:x1</b>
+- 奥运:1st_place_medal:x1
 
-- **世锦赛:1st_place_medal:x6**
+- 世锦赛:1st_place_medal:x6
 
-- **世锦赛:2nd_place_medal:x1**
+- 世锦赛:2nd_place_medal:x1
 
 - **奥运:3rd_place_medal:x2**
 
