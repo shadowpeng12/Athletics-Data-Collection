@@ -11,6 +11,8 @@
 |      **运动员代码**      |                         **14536762**                         |
 | **世界田联的运动员主页** | [Noah Lyles \| Profile \| World Athletics](https://worldathletics.org/athletes/united-states/noah-lyles-14536762) |
 
+**页面跳转：[个人最佳](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E4%B8%AA%E4%BA%BA%E6%9C%80%E4%BD%B3) | [荣誉列举](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E8%8D%A3%E8%AA%89%E5%88%97%E4%B8%BE) | [成绩汇总](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E6%88%90%E7%BB%A9%E6%B1%87%E6%80%BB)**
+
 ## 个人最佳
 
 |    项目     |      成绩       |    创造日期    |        比赛或地点        |       标注        |   得分   |
@@ -31,10 +33,10 @@
 |  **跳高**   |    **2.03**     | **2015.03.31** | **弗吉尼亚州布莱克斯堡** |       **-**       | **940**  |
 
 - <b>*表示不收录的成绩，(i)表示室内</b>
-
 - **如果不知道比赛名，只会标上比赛地点**
-
 - **世锦赛、奥运会项目全部加粗**
+
+**页面跳转：[个人最佳](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E4%B8%AA%E4%BA%BA%E6%9C%80%E4%BD%B3) | [荣誉列举](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E8%8D%A3%E8%AA%89%E5%88%97%E4%B8%BE) | [成绩汇总](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E6%88%90%E7%BB%A9%E6%B1%87%E6%80%BB)**
 
 ## 荣誉列举
 
@@ -120,6 +122,8 @@
 | :------------: | :-----: | :---------------: | :-----: |
 | 2024, 格拉斯哥 |  60米   | :2nd_place_medal: |  6.44   |
 | 2024, 格拉斯哥 | 4x400米 | :2nd_place_medal: | 3:02.60 |
+
+**页面跳转：[个人最佳](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E4%B8%AA%E4%BA%BA%E6%9C%80%E4%BD%B3) | [荣誉列举](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E8%8D%A3%E8%AA%89%E5%88%97%E4%B8%BE) | [成绩汇总](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#%E6%88%90%E7%BB%A9%E6%B1%87%E6%80%BB)**
 
 ## 成绩汇总
 
