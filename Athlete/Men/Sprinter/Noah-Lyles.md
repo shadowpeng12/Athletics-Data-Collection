@@ -37,21 +37,21 @@
 
 ## 荣誉列举
 
-- 奥运 :1st_place_medal: x1
+- **奥运 :1st_place_medal: x1**
 
-- 世锦赛:1st_place_medal:x6
+- **世锦赛 :1st_place_medal: x6**
 
-- 世锦赛:2nd_place_medal:x1
+- **世锦赛 :2nd_place_medal: x1**
 
-- **奥运:3rd_place_medal:x2**
+- **奥运 :3rd_place_medal: x2**
 
-- **钻石联赛总决赛冠军:diamond_shape_with_a_dot_inside:x5**
+- **钻石联赛总决赛冠军 :diamond_shape_with_a_dot_inside: x5**
 
-- **钻石联赛胜场数x22**
+-  **钻石联赛胜场数x22**
 
 - **全国冠军x8**
 
-- **室内世锦赛:2nd_place_medal:x2**
+- **室内世锦赛 :2nd_place_medal: x2**
 
 ### 奥运会
 
