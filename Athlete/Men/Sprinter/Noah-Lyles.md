@@ -129,9 +129,10 @@
 
 <details>
 <summary>年份选择</summary>
-- 2024
 
-- 2023
+- [2024](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#2024)
+
+- [2023](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#2023)
 
 </details>
 
