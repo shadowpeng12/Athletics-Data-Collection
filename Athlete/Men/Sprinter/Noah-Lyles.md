@@ -47,7 +47,7 @@
 
 - **世锦赛、奥运会项目全部加粗**
 
-[返回](#Noah Lyles)
+[返回](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#noah-lyles)
 
 ## 荣誉列举
 
@@ -134,7 +134,7 @@
 | 2024, 格拉斯哥 |  60米   | :2nd_place_medal: |  6.44   |
 | 2024, 格拉斯哥 | 4x400米 | :2nd_place_medal: | 3:02.60 |
 
-[返回](#Noah Lyles)
+[返回](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#noah-lyles)
 
 ## 成绩汇总
 
@@ -168,6 +168,8 @@
 - [2012](#2012)
 
 </details>
+
+[返回主页](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#noah-lyles)
 
 ### 2024
 
