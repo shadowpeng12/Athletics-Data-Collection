@@ -1,6 +1,6 @@
 # 成绩汇总
 
-<details>
+<details open>
 <summary>年份选择</summary>
 
 - [2024](#2024)
