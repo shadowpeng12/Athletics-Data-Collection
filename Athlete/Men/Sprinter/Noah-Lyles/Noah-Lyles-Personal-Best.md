@@ -1,4 +1,4 @@
-# 诺亚·莱尔斯个人最佳
+# 个人最佳
 
 |    项目     |      成绩       |    创造日期    |        比赛或地点        |       标注        |   得分   |
 | :---------: | :-------------: | :------------: | :----------------------: | :---------------: | :------: |
@@ -25,5 +25,5 @@
 
 - **世锦赛、奥运会项目全部加粗**
 
-# [返回主页](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles.md#noah-lyles)
+# [返回主页](./Noah-Lyles-Profile.md)
 
