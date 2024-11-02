@@ -18,5 +18,5 @@
 
 - **奥运 :3rd_place_medal: x2**
 
-# [个人最佳](./Noah-Lyles-Personal-Best.md) \| [荣誉列举]() \| [成绩汇总]() \| [常用统计]()
+# [个人最佳](./Noah-Lyles-Personal-Best.md) \| [荣誉列举](./Noah-Lyles-Honors.md) \| [成绩汇总]() \| [常用统计]()
 
