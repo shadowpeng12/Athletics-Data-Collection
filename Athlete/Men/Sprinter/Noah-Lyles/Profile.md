@@ -1,6 +1,4 @@
-<div align = 'center'>
-
-# Noah Lyles
+# <div align = 'center'>Noah Lyles</div>
 
 ![Noah-Lyles](./Noah-Lyles.jpg)
 
@@ -21,5 +19,3 @@
 - **奥运 :3rd_place_medal: x2**
 
 # [个人最佳](./Personal-Best.md) \| [荣誉列举](./Honors.md) \| [成绩汇总](./Results.md) \| [常用统计](./Stat.md)
-
-</div>
