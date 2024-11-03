@@ -11,13 +11,13 @@
 |       **世界田联的运动员主页**       | **[Noah Lyles \| Profile \| World Athletics](https://worldathletics.org/athletes/united-states/noah-lyles-14536762)** |
 |             **社交账号（需要特殊手段）**             | **[Instagram](https://www.instagram.com/nojo18/feed/) \| [X](https://x.com/lylesnoah)** |
 
-- **奥运 🥇 x1**
+**奥运 🥇 x1**
 
-- **世锦赛 :1st_place_medal: x6**
+**世锦赛 :1st_place_medal: x6**
 
-- **世锦赛 :2nd_place_medal: x1**
+**世锦赛 :2nd_place_medal: x1**
 
-- **奥运 :3rd_place_medal: x2**
+**奥运 :3rd_place_medal: x2**
 
 # [个人最佳](./Personal-Best.md) \| [荣誉列举](./Honors.md) \| [成绩汇总](./Results.md) \| [常用统计](./Stat.md)
 
