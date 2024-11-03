@@ -1,6 +1,6 @@
 # <div align = 'center'>Noah Lyles</div>
 
-![Noah-Lyles](./Noah-Lyles.jpg)
+![Noah-Lyles](./Picture.jpg)
 ---
 <div align = 'center'>
 
