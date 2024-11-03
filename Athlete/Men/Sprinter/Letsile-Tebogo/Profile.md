@@ -24,16 +24,6 @@
 
 # [个人最佳](./Personal-Best.md) \| [荣誉列举](./Honors.md) \| [成绩汇总](./Results.md) \| [常用统计](./Stats.md)
 
-## 荣誉列举
-
-- 奥运 :1st_place_medal: x1
-- 奥运 :2nd_place_medal: x1
-- 世锦赛 :2nd_place_medal: x1
-- 世锦赛 :3rd_place_medal: x1
-- 钻石联赛胜场x
-- 世界青年锦标赛 :1st_place_medal: x2
-- 世界青年锦标赛 :2nd_place_medal: x1
-
 ### 奥运会
 
 |      年份      |   项目    |       名次        |      成绩       |
