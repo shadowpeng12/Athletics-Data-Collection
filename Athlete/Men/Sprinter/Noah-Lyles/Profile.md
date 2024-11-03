@@ -1,6 +1,7 @@
 # <div align = 'center'>Noah Lyles</div>
 
 ![Noah-Lyles](./Noah-Lyles.jpg)
+---
 <div align = 'center'>
 
 |                中文名                |                         诺亚·莱尔斯                          |
