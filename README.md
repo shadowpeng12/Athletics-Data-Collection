@@ -11,7 +11,7 @@
 # 代表作
 | ![Noah-Lyles](./Athlete/Men/Sprinter/Noah-Lyles/Picture.jpg) | ![Letsile-Tebogo](./Athlete/Men/Sprinter/Letsile-Tebogo/Picture.jpg) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **[诺亚·莱尔斯的个人主页](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** |               [**莱斯利·特博格的个人主页**]()                |
+| **[诺亚·莱尔斯的个人主页](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** | [**莱斯利·特博格的个人主页**](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Letsile-Tebogo/Profile.md) |
 | ![Jakob-Ingebrigtsen](./Athlete/Men/Middle-Distance/assets/Jakob-Ingebrigtsen.jpg) |                                                              |
 |            **[雅各布·英格布里格森的个人主页]()**             |                                                              |
 
