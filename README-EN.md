@@ -10,6 +10,8 @@ Several objectives of the project:
 
 # Magnum opus
 
-|    ![](./Athlete/Men/Sprinter/Noah-Lyles/Noah-Lyles.jpg)     | ![](./Athlete/Men/Middle-Distance/assets/Jakob-Ingebrigtsen.jpg) |
+| ![Noah-Lyles](./Athlete/Men/Sprinter/Noah-Lyles/Picture.jpg) | ![Letsile-Tebogo](./Athlete/Men/Sprinter/Letsile-Tebogo/Picture.jpg) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **[Noah Lyles' Profile](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** |             **[Jakob Ingebrigtsen's Profile]()**             |
+| **[Noah Lyles' Profile](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** |               **[Letsile Tebogo's Profile]()**               |
+| ![Jakob-Ingebrigtsen](./Athlete/Men/Middle-Distance/assets/Jakob-Ingebrigtsen.jpg) |                                                              |
+|             **[Jakob Ingebrigtsen's Profile]()**             |                                                              |
