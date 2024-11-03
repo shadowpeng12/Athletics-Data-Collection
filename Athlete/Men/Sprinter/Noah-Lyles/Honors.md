@@ -20,7 +20,7 @@
 
 - **室内世锦赛 :2nd_place_medal: x2**
 
-- **世界青年锦标赛 :1st_place_medal: x2 **
+- **世界青年锦标赛 :1st_place_medal: x2**
 
 ## 奥运会
 
