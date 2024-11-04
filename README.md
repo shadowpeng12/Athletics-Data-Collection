@@ -9,9 +9,15 @@
 3. 对各个赛季一些项目的数据进行总结
 
 # 代表作
-| ![Noah-Lyles](./Athlete/Men/Sprinter/Noah-Lyles/Picture.jpg) | ![Letsile-Tebogo](./Athlete/Men/Sprinter/Letsile-Tebogo/Picture.jpg) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **[诺亚·莱尔斯的个人主页](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** | [**莱斯利·特博格的个人主页**](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Letsile-Tebogo/Profile.md) |
-| ![Jakob-Ingebrigtsen](./Athlete/Men/Middle-Distance/assets/Jakob-Ingebrigtsen.jpg) |                                                              |
-|            **[雅各布·英格布里格森的个人主页]()**             |                                                              |
+| ![Noah-Lyles](./Athlete/Men/Sprinter/Noah-Lyles/Picture.jpg) |
+| :----------------------------------------------------------: |
+| **[诺亚·莱尔斯的个人主页](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** |
+| ![Letsile-Tebogo](./Athlete/Men/Sprinter/Letsile-Tebogo/Picture.jpg) |
+| [**莱斯利·特博格的个人主页**](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Letsile-Tebogo/Profile.md) |
+| ![Emmanuel-Wanyonyi](./Athlete/Men/Middle-Distance/Emmanuel-Wanyonyi/Picture.jpg) |
+| **[伊曼纽尔·万永伊的个人主页](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Middle-Distance/Emmanuel-Wanyonyi/Profile.md)** |
+| ![Jakob-Ingebrigtsen](./Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Picture.jpg) |
+| **[雅各布·英格布里格森的个人主页](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Profile.md)** |
+|                                                              |
+|                                                              |
 

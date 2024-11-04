@@ -10,8 +10,13 @@ Several objectives of the project:
 
 # Magnum opus
 
-| ![Noah-Lyles](./Athlete/Men/Sprinter/Noah-Lyles/Picture.jpg) | ![Letsile-Tebogo](./Athlete/Men/Sprinter/Letsile-Tebogo/Picture.jpg) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **[Noah Lyles' Profile](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** | **[Letsile Tebogo's Profile](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Letsile-Tebogo/Profile.md)** |
-| ![Jakob-Ingebrigtsen](./Athlete/Men/Middle-Distance/assets/Jakob-Ingebrigtsen.jpg) |                                                              |
-|             **[Jakob Ingebrigtsen's Profile]()**             |                                                              |
+| ![Noah-Lyles](./Athlete/Men/Sprinter/Noah-Lyles/Picture.jpg) |
+| :----------------------------------------------------------: |
+| **[Noah Lyles' Profile](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** |
+| ![Letsile-Tebogo](./Athlete/Men/Sprinter/Letsile-Tebogo/Picture.jpg) |
+| **[Letsile Tebogo's Profile](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Letsile-Tebogo/Profile.md)** |
+| ![Emmanuel-Wanyonyi](./Athlete/Men/Middle-Distance/Emmanuel-Wanyonyi/Picture.jpg) |
+| **[Emmanuel Wanyonyi's Profile](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Middle-Distance/Emmanuel-Wanyonyi/Profile.md)** |
+| ![Jakob-Ingebrigtsen](./Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Picture.jpg) |
+| **[Jakob Ingebrigtsen's Profile](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Profile.md)** |
+|                                                              |
