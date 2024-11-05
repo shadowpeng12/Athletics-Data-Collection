@@ -11,7 +11,7 @@
 | **世界田联的运动员主页** | **[Noah Lyles \| Profile \| World Athletics](https://worldathletics.org/athletes/united-states/noah-lyles-14536762)** |
 |       **社交账号**       | **[Instagram](https://www.instagram.com/nojo18/feed/) \| [X](https://x.com/lylesnoah)** |
 
-**奥运 🥇 x1**
+**奥运会🥇 x1**
 
 **世锦赛🥇 x6**
 

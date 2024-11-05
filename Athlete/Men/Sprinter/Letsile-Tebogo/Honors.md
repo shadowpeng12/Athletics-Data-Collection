@@ -4,21 +4,21 @@
 
 > [返回主页](./Profile.md)
 
-- **奥运 :1st_place_medal: x1**
+- **奥运​会:1st_place_medal: x1**
 
-- **奥运 :2nd_place_medal: x1**
+- **奥运​会:2nd_place_medal: x1**
 
-- **世锦赛 :2nd_place_medal: x1**
+- **世锦赛:2nd_place_medal: x1**
 
-- **世锦赛 :3rd_place_medal: x1**
+- **世锦赛:3rd_place_medal: x1**
 
 - **奥运会前八 x1**
 
 - **钻石联赛胜场 x6**
 
-- **世界青年锦标赛 :1st_place_medal: x2**
+- **世界青年锦标赛:1st_place_medal: x2**
 
-- **世界青年锦标赛 :2nd_place_medal: x2**
+- **世界青年锦标赛:2nd_place_medal: x2**
 
 
 

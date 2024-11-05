@@ -1,5 +1,3 @@
-<div align = 'center'>
-
 # Jakob Ingebrigtsen
 
 ![Jakob-Ingebrigtsen](./Picture.jpg)
@@ -12,14 +10,13 @@
 | **世界田联的运动员主页** | **[Jakob Ingebrigtsen \| Profile \| World Athletics](https://worldathletics.org/athletes/norway/jakob-ingebrigtsen-14653717)** |
 |       **社交账号**       |     **[Instagram](https://www.instagram.com/jakobing/)**     |
 
-**奥运 :1st_place_medal: x2**
+**奥运会🥇 x2**
 
-**世锦赛 :1st_place_medal: x2**
+**世锦赛🥇 x2**
 
-**世锦赛 :2nd_place_medal: x2**
+**世锦赛🥈 x2**
 
-**钻石联赛总决赛冠军 💎 x4**
+**钻石联赛总决赛冠军💎 x4**
 
 # [个人最佳](./Personal-Best.md) | [荣誉列举](./Honors.md) | [成绩汇总](./Results.md) | [常用统计](./Stats.md)
 
-</div>
