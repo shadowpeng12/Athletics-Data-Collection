@@ -1,6 +1,6 @@
 # 田径数据收集
 
-[**简体中文**](./README.md) |[ English](README-EN.md)
+[**简体中文**](./README.md) |[ English](README.en.md)
 
 本项目的几个目标：
 
@@ -11,13 +11,11 @@
 # 代表作
 | ![Noah-Lyles](./Athlete/Men/Sprinter/Noah-Lyles/Picture.jpg) |
 | :----------------------------------------------------------: |
-| **[诺亚·莱尔斯的个人主页](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** |
+| **[诺亚·莱尔斯的个人主页](./Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** |
 | ![Letsile-Tebogo](./Athlete/Men/Sprinter/Letsile-Tebogo/Picture.jpg) |
-| [**莱斯利·特博格的个人主页**](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Sprinter/Letsile-Tebogo/Profile.md) |
+| [**莱斯利·特博格的个人主页**](./Athlete/Men/Sprinter/Letsile-Tebogo/Profile.md) |
 | ![Emmanuel-Wanyonyi](./Athlete/Men/Middle-Distance/Emmanuel-Wanyonyi/Picture.jpg) |
-| **[伊曼纽尔·万永伊的个人主页](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Middle-Distance/Emmanuel-Wanyonyi/Profile.md)** |
+| **[伊曼纽尔·万永伊的个人主页](./Athlete/Men/Middle-Distance/Emmanuel-Wanyonyi/Profile.md)** |
 | ![Jakob-Ingebrigtsen](./Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Picture.jpg) |
-| **[雅各布·英格布里格森的个人主页](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Profile.md)** |
-|                                                              |
-|                                                              |
+| **[雅各布·英格布里格森的个人主页](./Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Profile.md)** |
 

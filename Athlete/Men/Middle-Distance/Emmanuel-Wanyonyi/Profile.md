@@ -1,5 +1,3 @@
-<div align = 'center'>
-
 # Emmanuel Wanyonyi
 
 ![Emmanuel Wanyonyi](./Picture.jpg)
@@ -12,9 +10,9 @@
 | **世界田联的运动员主页** | **[Emmanuel Wanyonyi \| Profile \| World Athletics](https://worldathletics.org/athletes/kenya/emmanuel-wanyonyi-14974928)** |
 |       **社交账号**       |                  **[Instagram]() \| [X]()**                  |
 
-**奥运 :1st_place_medal: x1**
+**奥运🥇 x1**
 
-**世锦赛 :2nd_place_medal: x1**
+**世锦赛🥈 x1**
 
 **世锦赛前八 x1**
 
@@ -22,5 +20,5 @@
 
 # [个人最佳](./Personal-Best.md) | [荣誉列举](./Honors.md) | [成绩汇总](./Results.md) | [常用统计](./Stats.md)
 
-</div>
+
 

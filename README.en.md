@@ -1,6 +1,6 @@
 # Athletics-Data-Collection
 
-[简体中文](./README.md) | **[English](./README-EN.md)**
+[简体中文](./README.md) | **[English](./README.en.md)**
 
 Several objectives of the project:
 
@@ -19,4 +19,3 @@ Several objectives of the project:
 | **[Emmanuel Wanyonyi's Profile](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Middle-Distance/Emmanuel-Wanyonyi/Profile.md)** |
 | ![Jakob-Ingebrigtsen](./Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Picture.jpg) |
 | **[Jakob Ingebrigtsen's Profile](https://github.com/shadowpeng12/Athletics-Data-Collection/blob/main/Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Profile.md)** |
-|                                                              |
