@@ -38,8 +38,8 @@
 | 2017 |          穆塔兹·伊萨·巴尔希姆（Mutaz Essa Barshim）          |             纳菲萨图·蒂亚姆（Nafissatou Thiam）              |
 | 2018 |              埃鲁德·基普乔格（Eliud Kipchoge）               |             卡特琳·伊瓦尔根（Caterine Ibargüen）             |
 | 2019 |              埃鲁德·基普乔格（Eliud Kipchoge）               |             达利拉·穆罕默德（Dalilah Muhammad）              |
-| 2020 |         阿曼德·杜普兰蒂斯（Armand Duplantis）- 瑞典          |                尤利马·罗哈斯（Yulimar Rojas）                |
-| 2021 |           卡斯腾·瓦尔霍姆（Karsten Warholm）- 挪威           |         伊莱恩·汤普森-赫拉（Elaine Thompson-Herah）          |
-| 2022 |         阿曼德·杜普兰蒂斯（Armand Duplantis）- 瑞典          |     悉尼·麦克劳克林-莱福隆（Sydney McLaughlin-Levrone）      |
-| 2023 | 径赛：诺亚·莱尔斯（Noah Lyles）- 美国<br>田赛：阿曼德·杜普兰蒂斯（Armand Duplantis）- 瑞典<br>场外：凯尔文·基普图姆（Kelvin Kiptum）- 肯尼亚 | 径赛：费斯·基普耶根（Faith Kipyegon）- 肯尼亚<br>田赛：尤利马·罗哈斯（Yulimar Rojas）- 委内瑞拉<br>场外：蒂吉斯特·阿塞法（Tigist Assefa）- 埃塞俄比亚 |
+| 2020 |            阿曼德·杜普兰蒂斯（Armand Duplantis）             |                尤利马·罗哈斯（Yulimar Rojas）                |
+| 2021 |              卡斯腾·瓦尔霍姆（Karsten Warholm）              |         伊莱恩·汤普森-赫拉（Elaine Thompson-Herah）          |
+| 2022 |            阿曼德·杜普兰蒂斯（Armand Duplantis）             |     悉尼·麦克劳克林-莱福隆（Sydney McLaughlin-Levrone）      |
+| 2023 | 径赛：诺亚·莱尔斯（Noah Lyles）<br>田赛：阿曼德·杜普兰蒂斯（Armand Duplantis）<br>场外：凯尔文·基普图姆（Kelvin Kiptum） | 径赛：费斯·基普耶根（Faith Kipyegon）<br>田赛：尤利马·罗哈斯（Yulimar Rojas）<br>场外：蒂吉斯特·阿塞法（Tigist Assefa） |
 
