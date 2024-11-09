@@ -6,9 +6,7 @@
 | :----------------------: | :----------------------------------------------------------: |
 |       **代表国家**       |                         **博茨瓦纳**                         |
 |      **出生年月日**      |                        **2003.06.07**                        |
-|      **运动员代码**      |                         **14883897**                         |
 | **世界田联的运动员主页** | **[Letsile Tebogo \| Profile \| World Athletics](https://worldathletics.org/athletes/botswana/letsile-tebogo-14883897)** |
-|       **社交账号**       | **[Instagram](https://www.instagram.com/tebogo_letsile_/) \| [X](https://x.com/tebogo_letsile_)** |
 
 **奥运会🥇 x1**
 
