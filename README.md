@@ -25,7 +25,7 @@
 # 现役运动员主页
 | **[诺亚·莱尔斯](./Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** | [**莱斯利·特博格**](./Athlete/Men/Sprinter/Letsile-Tebogo/Profile.md) | **[伊曼纽尔·万永伊](./Athlete/Men/Middle-Distance/Emmanuel-Wanyonyi/Profile.md)** | **[雅各布·英格布里格森](./Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Profile.md)** |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **[约书亚·切普特盖](./Athlete/Men/Long-Distance/Joshua-Cheptegei/Profile.md)** | **[雪莉-安·弗雷泽-普莱斯](./Athlete/Women/Sprinter/Shelly-Ann-Fraser-Pryce/Profile.md)** |                  **[伊莱恩·汤普森-赫拉]()**                  |                **[悉尼·麦克劳克林-莱福隆]()**                |
+| **[约书亚·切普特盖](./Athlete/Men/Long-Distance/Joshua-Cheptegei/Profile.md)** | **[雪莉-安·弗雷泽-普莱斯](./Athlete/Women/Sprinter/Shelly-Ann-Fraser-Pryce/Profile.md)** | **[伊莱恩·汤普森-赫拉](./Athlete/Women/Sprinter/Elaine-Thompson-Herah/Profile.md)** | **[悉尼·麦克劳克林-莱福隆](./Athlete/Women/Sprinter/Sydney-Mclaughlin-Levrone/Profile.md)** |
 
 # 退役运动员主页
 
