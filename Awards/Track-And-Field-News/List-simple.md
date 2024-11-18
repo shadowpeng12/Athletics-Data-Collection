@@ -2,6 +2,8 @@
 
 该奖项由美国体育杂志《田径新闻》颁发给田径运动员，从1959年开始，当时只颁发给男性，从1974年开始颁发给女性，每年男女各一位，由该杂志组织的国际田径专家评审团选出获奖者。本文列举从1980年开始的名单。
 
+## [首页◀](../../README.md)
+
 - 注：2020年没有年度最佳运动员，取而代之的是MVP奖项
 
 | 年份 |            男获胜者            | 代表国家 |                    女获胜者                     |   代表国家   |
@@ -30,8 +32,8 @@
 | 2001 | 希查姆·埃尔·奎罗伊<br/>Hicham El Guerrouj |       摩洛哥        |  史黛西·德拉吉拉<br/>Stacy Dragila  |         美国         |
 | 2002 | 希查姆·埃尔·奎罗伊<br/>Hicham El Guerrouj |       摩洛哥        | 保拉·拉德克利夫<br/>Paula Radcliffe |         英国         |
 | 2003 |    菲利克斯·桑切斯<br/>Félix Sánchez    |   多米尼加共和国    |       玛丽亚·穆托拉<br/>Maria Mutola       | 莫桑比克 |
-| 2004 |   凯内尼萨·贝克勒<br/>Kenenisa Bekele   |     埃塞俄比亚      | 叶莲娜·伊辛巴耶娃<br/>Yelena Isinbayeva |        俄罗斯        |
-| 2005 |   凯内尼萨·贝克勒<br/>Kenenisa Bekele   |     埃塞俄比亚      | 叶莲娜·伊辛巴耶娃<br/>Yelena Isinbayeva |        俄罗斯        |
+| 2004 |   肯尼萨·贝克勒<br/>Kenenisa Bekele   |     埃塞俄比亚      | 叶莲娜·伊辛巴耶娃<br/>Yelena Isinbayeva |        俄罗斯        |
+| 2005 |   肯尼萨·贝克勒<br/>Kenenisa Bekele   |     埃塞俄比亚      | 叶莲娜·伊辛巴耶娃<br/>Yelena Isinbayeva |        俄罗斯        |
 | 2006 |    阿萨法·鲍威尔<br/>Asafa Powell    |       牙买加        |  桑娅·理查兹<br/>Sanya Richards  |         美国         |
 | 2007 |      泰森·盖伊<br/>Tyson Gay      |        美国         |  梅塞雷·德法尔<br/>Meseret Defar  |      埃塞俄比亚      |
 | 2008 |    尤塞恩·博尔特<br/>Usain Bolt    |       牙买加        | 蒂鲁内什·迪巴巴<br/>Tirunesh Dibaba |      埃塞俄比亚      |
