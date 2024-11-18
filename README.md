@@ -4,15 +4,10 @@
 
 ![./Assets/博尔特.png](./Assets/博尔特.png)
 
-本项目的几个**目标**：
-
-1. 建立一些**现役的**知名运动员的主页（**[田联官方](https://worldathletics.org)**有主页，但我想让其更加**直观**）
-2. 收集钻石联赛、奥运会、世锦赛的比赛数据（大概就是**成绩单**吧）
-3. 对各个赛季一些项目的数据进行**总结**
-4. **退役运动员**的主页也在计划之中
+特别鸣谢： [![world athletics](./Assets/worldathletics.svg)](https://www.worldathletics.org)
 
 <details open>
-<summary>选项</summary>
+<summary>收集的数据</summary>
 
 - **[现役运动员主页](#现役运动员主页)**
 - **[退役运动员主页](#退役运动员主页)**
@@ -23,33 +18,34 @@
 ![](./Assets/奎罗伊.png)
 
 # 现役运动员主页
-| **[诺亚·莱尔斯](./Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** | [**莱斯利·特博格**](./Athlete/Men/Sprinter/Letsile-Tebogo/Profile.md) | **[伊曼纽尔·万永伊](./Athlete/Men/Middle-Distance/Emmanuel-Wanyonyi/Profile.md)** | **[雅各布·英格布里格森](./Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Profile.md)** |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **[约书亚·切普特盖](./Athlete/Men/Long-Distance/Joshua-Cheptegei/Profile.md)** | **[雪莉-安·弗雷泽-普莱斯](./Athlete/Women/Sprinter/Shelly-Ann-Fraser-Pryce/Profile.md)** | **[伊莱恩·汤普森-赫拉](./Athlete/Women/Sprinter/Elaine-Thompson-Herah/Profile.md)** | **[悉尼·麦克劳克林-莱福隆](./Athlete/Women/Sprinter/Sydney-Mclaughlin-Levrone/Profile.md)** |
 
-> 现役运动员除了最上面4位外，其余四位去掉成绩汇总模块，取而代之的是经典赛季模块；
->
-> 退役运动员大部分也是使用经典赛季模块，小部分会使用成绩汇总模块；
->
-> 现役运动员一旦有出现退役的情况，本项目会适时将其调整至退役运动员主页。
+|                            运动员                            | 性别 | 代表国家 |    主要项目     |
+| :----------------------------------------------------------: | :--: | :------: | :-------------: |
+| **[诺亚·莱尔斯](./Athlete/Men/Sprinter/Noah-Lyles/Profile.md)** |  男  |   美国   |  100米、200米   |
+| [**莱斯利·特博格**](./Athlete/Men/Sprinter/Letsile-Tebogo/Profile.md) |  男  | 博茨瓦纳 |  100米、200米   |
+| **[伊曼纽尔·万永伊](./Athlete/Men/Middle-Distance/Emmanuel-Wanyonyi/Profile.md)** |  男  |  肯尼亚  |      800米      |
+| **[雅各布·英格布里格森](./Athlete/Men/Middle-Distance/Jakob-Ingebrigtsen/Profile.md)** |  男  |   挪威   | 1500米、5000米  |
+| **[约书亚·切普特盖](./Athlete/Men/Long-Distance/Joshua-Cheptegei/Profile.md)** |  男  |  乌干达  | 5000米、10000米 |
+| **[雪莉-安·弗雷泽-普莱斯](./Athlete/Women/Sprinter/Shelly-Ann-Fraser-Pryce/Profile.md)** |  女  |  牙买加  |  100米、200米   |
+| **[伊莱恩·汤普森-赫拉](./Athlete/Women/Sprinter/Elaine-Thompson-Herah/Profile.md)** |  女  |  牙买加  |  100米、200米   |
+|                       玛丽莱迪·保利诺                        |  女  | 多米尼加 |      400米      |
+| **[悉尼·麦克劳克林-莱福隆](./Athlete/Women/Sprinter/Sydney-Mclaughlin-Levrone/Profile.md)** |  女  |   美国   |     400米栏     |
+|                        基利·霍奇金森                         |  女  |   英国   |      800米      |
 
 # 退役运动员主页
 
-|                           运动员                            | 性别 |  代表国家  |      主要项目      |
-| :---------------------------------------------------------: | :--: | :--------: | :----------------: |
-| [卡尔·刘易斯](./Athlete/Men/Sprinter/Carl-Lewis/Profile.md) |  男  |    美国    | 100米、200米、跳远 |
-|                        迈克尔·约翰逊                        |  男  |    美国    |    200米、400米    |
-|                        诺尔丁·莫塞利                        |  男  | 阿尔及利亚 |       1500米       |
-|                     海尔·格布雷西拉西耶                     |  男  | 埃塞俄比亚 |  5000米、10000米   |
-|                     希查姆·埃尔·奎罗伊                      |  男  |   摩洛哥   |   1500米、5000米   |
-|                         莫里斯·格林                         |  男  |    美国    |    100米、200米    |
-|                        贾斯汀·加特林                        |  男  |    美国    |    100米、200米    |
-|                      叶莲娜·伊辛巴耶娃                      |  女  |   俄罗斯   |      撑竿跳高      |
-|                        肯尼萨·贝克勒                        |  男  | 埃塞俄比亚 |  5000米、10000米   |
-|                        尤塞恩·博尔特                        |  男  |   牙买加   |    100米、200米    |
-|                       艾莉森·菲利克斯                       |  女  |    美国    |    200米、400米    |
-|                         大卫·鲁迪沙                         |  男  |   肯尼亚   |       800米        |
+|                            运动员                            | 性别 |  代表国家  |      主要项目      |
+| :----------------------------------------------------------: | :--: | :--------: | :----------------: |
+| **[卡尔·刘易斯](./Athlete/Men/Sprinter/Carl-Lewis/Profile.md)** |  男  |    美国    | 100米、200米、跳远 |
+| **[迈克尔·约翰逊](./Athlete/Men/Sprinter/Michael-Johnson/Profile.md)** |  男  |    美国    |    200米、400米    |
+|                      希查姆·埃尔·奎罗伊                      |  男  |   摩洛哥   |   1500米、5000米   |
+|                      叶莲娜·伊辛巴耶娃                       |  女  |   俄罗斯   |      撑竿跳高      |
+|                        肯尼萨·贝克勒                         |  男  | 埃塞俄比亚 |  5000米、10000米   |
+|                        尤塞恩·博尔特                         |  男  |   牙买加   |    100米、200米    |
+|                       艾莉森·菲利克斯                        |  女  |    美国    |    200米、400米    |
+|                         大卫·鲁迪沙                          |  男  |   肯尼亚   |       800米        |
 
 # 田联历年奖项设置
 
-- **[年度最佳运动员](./Awards/World-Athlete-Of-The-Year/List-simple.md)**
+- **[国际田联年度最佳运动员](./Awards/World-Athlete-Of-The-Year/List-simple.md)**
+- **[《田径新闻》年度最佳运动员](./Awards/Track-And-Field-News/List-simple.md)**
