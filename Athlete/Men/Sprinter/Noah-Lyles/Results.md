@@ -10,8 +10,7 @@
 > (i)表示室内成绩
 
 
-<details open>
-<summary>年份选择</summary>
+## 年份选择
 
 - [2024](./Results/2024.md)
 
@@ -38,7 +37,5 @@
 - [2013](./Results/2013.md)
 
 - [2012](./Results/2012.md)
-
-</details>
 
 [返回主页](./Profile.md)

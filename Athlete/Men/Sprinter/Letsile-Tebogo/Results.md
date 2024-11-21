@@ -6,8 +6,7 @@
 >
 > 带*的成绩 都是异常的成绩 后面标注都有说明
 
-<details open>
-<summary>年份选择</summary>
+## 年份选择
 
 - [2024](./Results/2024.md)
 
@@ -21,6 +20,5 @@
 
 - [2019](./Results/2019.md)
 
-</details>
 
 [回到主页](./Profile.md)
