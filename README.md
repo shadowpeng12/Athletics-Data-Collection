@@ -2,7 +2,7 @@
 
 [**简体中文**](./README.md) |[ English](README.en.md)
 
-![./Assets/博尔特.png](./Assets/博尔特.png)
+![博尔特](./Assets/博尔特.png)
 
  ![Static Badge](https://img.shields.io/badge/%E7%89%B9%E5%88%AB%E9%B8%A3%E8%B0%A2-World_Athletics-blue?link=https%3A%2F%2Fwww.worldathletics.org)  ![Static Badge](https://img.shields.io/badge/%E7%89%B9%E5%88%AB%E9%B8%A3%E8%B0%A2-%E5%8D%A1%E5%B0%94%E5%88%98%E6%98%93%E6%96%AF%E5%90%A7-red?link=https%3A%2F%2Ftieba.baidu.com%2Ff%3Fkw%3D%25E5%258D%25A1%25E5%25B0%2594%25E5%2588%2598%25E6%2598%2593%25E6%2596%25AF)  ![Static Badge](https://img.shields.io/badge/%E7%89%B9%E5%88%AB%E9%B8%A3%E8%B0%A2-%E8%AF%BA%E4%BA%9A%E8%8E%B1%E5%B0%94%E6%96%AF%E5%90%A7-blue?link=https%3A%2F%2Ftieba.baidu.com%2Ff%3Fkw%3D%25E8%25AF%25BA%25E4%25BA%259A%25E8%258E%25B1%25E5%25B0%2594%25E6%2596%25AF)  ![Static Badge](https://img.shields.io/badge/%E7%89%B9%E5%88%AB%E9%B8%A3%E8%B0%A2-tilastopaja-red?link=https%3A%2F%2Fwww.tilastopaja.info%2F)
 
@@ -15,7 +15,7 @@
 
 
 
-![](./Assets/奎罗伊.png)
+![奎罗伊](./Assets/奎罗伊.png)
 
 # 现役运动员主页
 
@@ -49,3 +49,4 @@
 
 - **[国际田联年度最佳运动员](./Awards/World-Athlete-Of-The-Year/List-simple.md)**
 - **[《田径新闻》年度最佳运动员](./Awards/Track-And-Field-News/List-simple.md)**
+- **[国际田联年度摄影作品](./Awards/Photograph-Of-The-Year/List.md)**
