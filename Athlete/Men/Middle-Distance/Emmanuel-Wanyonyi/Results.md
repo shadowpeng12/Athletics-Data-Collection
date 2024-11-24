@@ -5,9 +5,8 @@
 >
 > 每个赛季都包含赛季最佳、赛季所有成绩
 
+## 年份选择
 
-<details open>
-<summary>年份选择</summary>
 
 - [2024](./Results/2024.md)
 
@@ -17,4 +16,4 @@
 
 - [2021](./Results/2021.md)
 
-[回到主页](./Profile.md)
+- [2020](./Results/2020.md)
