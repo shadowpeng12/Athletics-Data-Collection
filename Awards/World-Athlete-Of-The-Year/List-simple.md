@@ -52,3 +52,4 @@
 | 2024<br>田赛 |   阿曼德·杜普兰蒂斯<br>Armand Duplantis    |    瑞典    |      雅罗斯拉娃·玛胡奇克<br>Yaroslava Mahuchikh      |   乌克兰   |
 | 2024<br>场外 |       塔米拉特·托拉<br>Tamirat Tola        | 埃塞俄比亚 |            **西凡·哈桑<br>Siafan Hassan**            |    荷兰    |
 
+<b>[首页](../../README.md)</b>
