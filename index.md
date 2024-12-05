@@ -71,7 +71,7 @@
 |                        尤塞恩·博尔特                         |   牙买加   |    100米、200米    |
 | [迈克尔·约翰逊](./Athlete/Men/Sprinter/Michael-Johnson/Profile.md) |    美国    |    200米、400米    |
 | [希查姆·埃尔·奎罗伊](./Athlete/Men/Middle-Distance/Hicham-El-Guerrouj/Profile.md) |   摩洛哥   |   1500米、5000米   |
-|                        肯尼萨·贝克勒                         | 埃塞俄比亚 |  5000米、10000米   |
+| [肯尼萨·贝克勒](./Athlete/Men/Long-Distance/Kenenisa-Bekele/Profile.md) | 埃塞俄比亚 |  5000米、10000米   |
 |                       艾莉森·菲利克斯                        |    美国    |    200米、400米    |
 | [叶莲娜·伊辛巴耶娃](./Athlete/Women/Jump/Yelena-Isinbayeva/Profile.md) |   俄罗斯   |      撑竿跳高      |
 

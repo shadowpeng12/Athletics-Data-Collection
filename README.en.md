@@ -41,7 +41,7 @@
 | **[Michael Johnson](./Athlete/Men/Sprinter/Michael-Johnson/Profile.md)** |  Male  | United States |      200m, 400m       |
 | **[Hicham El-Guerrouj](./Athlete/Men/Middle-Distance/Hicham-El-Guerrouj/Profile.md)** |  Male  |    Morocco    |     1500m, 5000m      |
 | **[Yelena Isinbayeva](./Athlete/Women/Jump/Yelena-Isinbayeva/Profile.md)** | Female |    Russia     |      Pole Vault       |
-|                        肯尼萨·贝克勒                         |  Male  |   Ethiopia    |     5000m, 10000m     |
+| **[Kenenisa Bekele](./Athlete/Men/Long-Distance/Kenenisa-Bekele/Profile.md)** |  Male  |   Ethiopia    |     5000m, 10000m     |
 |                        尤塞恩·博尔特                         |  Male  |    Jamaica    |      100m, 200m       |
 |                       艾莉森·菲利克斯                        | Female | United States |      200m, 400m       |
 |                         大卫·鲁迪沙                          |  Male  |     Kenya     |         800m          |

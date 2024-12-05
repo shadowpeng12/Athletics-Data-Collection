@@ -20,6 +20,6 @@
 
 **生涯 世界纪录 & 世界最好成绩 x1**
 
-# [个人最佳](./Personal-Best.md) \| [荣誉列举](./Honors.md) \| [成绩汇总](./Results.md) \| [常用统计](./Stats.md)
+# [个人最佳](./Personal-Best.md) \| [荣誉列举](./Honors.md) \| [成绩汇总](./Results.md) \| [厚度统计](./Stats.md)
 
 # [首页](../../../../README.md)
