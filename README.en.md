@@ -42,16 +42,16 @@
 | **[Hicham El-Guerrouj](./Athlete/Men/Middle-Distance/Hicham-El-Guerrouj/Profile.md)** |  Male  |    Morocco    |     1500m, 5000m      |
 | **[Yelena Isinbayeva](./Athlete/Women/Jump/Yelena-Isinbayeva/Profile.md)** | Female |    Russia     |      Pole Vault       |
 | **[Kenenisa Bekele](./Athlete/Men/Long-Distance/Kenenisa-Bekele/Profile.md)** |  Male  |   Ethiopia    |     5000m, 10000m     |
-|                        尤塞恩·博尔特                         |  Male  |    Jamaica    |      100m, 200m       |
+| **[Usain Bolt](./Athlete/Men/Sprinter/Usain-Bolt/Profile.md)** |  Male  |    Jamaica    |      100m, 200m       |
 |                       艾莉森·菲利克斯                        | Female | United States |      200m, 400m       |
 |                         大卫·鲁迪沙                          |  Male  |     Kenya     |         800m          |
 
-# 田联历年奖项设置<a id='3'></a>
+# Awards In Athletics<a id='3'></a>
 
-- **[国际田联年度最佳运动员](./Awards/World-Athlete-Of-The-Year/List-simple.md)**
-- **[《田径新闻》年度最佳运动员](./Awards/Track-And-Field-News/List-simple.md)**
-- **[国际田联年度摄影作品](./Awards/Photograph-Of-The-Year/List.md)**
+- **[World Athlete Of The Year](./Awards/World-Athlete-Of-The-Year/List-simple.md)**
+- **[*Track & Field News* Athlete of the Year](./Awards/Track-And-Field-News/List-simple.md)**
+- **[World Athletics Photograph Of The Year](./Awards/Photograph-Of-The-Year/List.md)**
 
 # 赛事冠军<a id='4'></a>
 
-- **[顶级联赛冠军](./Champion/League/Overview.md)**
+- **[League & Final's Champion](./Champion/League/Overview.md)**
