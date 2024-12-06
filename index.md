@@ -68,8 +68,9 @@
 |                            选手名                            |  代表国家  |        主要项目         |
 | :----------------------------------------------------------: | :--------: | :---------------------: |
 | [卡尔·刘易斯](./Athlete/Men/Sprinter/Carl-Lewis/Profile.md)  |    美国    |   跳远、100米、200米    |
-|                        尤塞恩·博尔特                         |   牙买加   |      100米、200米       |
+| [尤塞恩·博尔特](./Athlete/Men/Sprinter/Usain-Bolt/Profile.md) |   牙买加   |      100米、200米       |
 | [迈克尔·约翰逊](./Athlete/Men/Sprinter/Michael-Johnson/Profile.md) |    美国    |      200米、400米       |
+|                         大卫·鲁迪沙                          |   肯尼亚   |          800米          |
 | [希查姆·埃尔·奎罗伊](./Athlete/Men/Middle-Distance/Hicham-El-Guerrouj/Profile.md) |   摩洛哥   |     1500米、5000米      |
 | [凯内尼萨·贝克勒](./Athlete/Men/Long-Distance/Kenenisa-Bekele/Profile.md) | 埃塞俄比亚 | 5000米、10000米、马拉松 |
 |                       艾莉森·菲利克斯                        |    美国    |      200米、400米       |
@@ -82,7 +83,6 @@
 |                            奖项名                            |         起始年份         |
 | :----------------------------------------------------------: | :----------------------: |
 | [世界田联年度最佳运动员](./Awards/World-Athlete-Of-The-Year/List-simple.md) |           1988           |
-|                     世界田联年度最佳新星                     |                          |
 | [世界田联年度最佳摄影](./Awards/Photograph-Of-The-Year/List.md) |           2017           |
 |                      欧洲年度最佳运动员                      |                          |
 |                      美国年度最佳运动员                      |                          |
