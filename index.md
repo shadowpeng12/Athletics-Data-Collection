@@ -73,7 +73,7 @@
 |                         大卫·鲁迪沙                          |   肯尼亚   |          800米          |
 | [希查姆·埃尔·奎罗伊](./Athlete/Men/Middle-Distance/Hicham-El-Guerrouj/Profile.md) |   摩洛哥   |     1500米、5000米      |
 | [凯内尼萨·贝克勒](./Athlete/Men/Long-Distance/Kenenisa-Bekele/Profile.md) | 埃塞俄比亚 | 5000米、10000米、马拉松 |
-|                       艾莉森·菲利克斯                        |    美国    |      200米、400米       |
+| [艾莉森·菲利克斯](./Athlete/Women/Sprinter/Allyson-Felix/Profile.md) |    美国    |      200米、400米       |
 | [叶莲娜·伊辛巴耶娃](./Athlete/Women/Jump/Yelena-Isinbayeva/Profile.md) |   俄罗斯   |        撑竿跳高         |
 
 > 点击选手名即可进入该选手的主页

@@ -43,7 +43,7 @@
 | **[Yelena Isinbayeva](./Athlete/Women/Jump/Yelena-Isinbayeva/Profile.md)** | Female |    Russia     |      Pole Vault       |
 | **[Kenenisa Bekele](./Athlete/Men/Long-Distance/Kenenisa-Bekele/Profile.md)** |  Male  |   Ethiopia    |     5000m, 10000m     |
 | **[Usain Bolt](./Athlete/Men/Sprinter/Usain-Bolt/Profile.md)** |  Male  |    Jamaica    |      100m, 200m       |
-|                       艾莉森·菲利克斯                        | Female | United States |      200m, 400m       |
+| **[Allyson Felix](./Athlete/Women/Sprinter/Allyson-Felix/Profile.md)** | Female | United States |      200m, 400m       |
 |                         大卫·鲁迪沙                          |  Male  |     Kenya     |         800m          |
 
 # Awards In Athletics<a id='3'></a>
