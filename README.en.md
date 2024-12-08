@@ -44,7 +44,7 @@
 | **[Kenenisa Bekele](./Athlete/Men/Long-Distance/Kenenisa-Bekele/Profile.md)** |  Male  |   Ethiopia    |     5000m, 10000m     |
 | **[Usain Bolt](./Athlete/Men/Sprinter/Usain-Bolt/Profile.md)** |  Male  |    Jamaica    |      100m, 200m       |
 | **[Allyson Felix](./Athlete/Women/Sprinter/Allyson-Felix/Profile.md)** | Female | United States |      200m, 400m       |
-|                         大卫·鲁迪沙                          |  Male  |     Kenya     |         800m          |
+| **[David Rudisha](./Athlete/Men/Middle-Distance/David-Rudisha/Profile.md)** |  Male  |     Kenya     |         800m          |
 
 # Awards In Athletics<a id='3'></a>
 
@@ -52,6 +52,6 @@
 - **[*Track & Field News* Athlete of the Year](./Awards/Track-And-Field-News/List-simple.md)**
 - **[World Athletics Photograph Of The Year](./Awards/Photograph-Of-The-Year/List.md)**
 
-# 赛事冠军<a id='4'></a>
+# Major Champion<a id='4'></a>
 
 - **[League & Final's Champion](./Champion/League/Overview.md)**

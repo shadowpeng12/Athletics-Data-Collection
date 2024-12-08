@@ -47,7 +47,7 @@
 | **[凯内尼萨·贝克勒](./Athlete/Men/Long-Distance/Kenenisa-Bekele/Profile.md)** |  男  | 埃塞俄比亚 | 5000米、10000米、马拉松 |
 | **[尤塞恩·博尔特](./Athlete/Men/Sprinter/Usain-Bolt/Profile.md)** |  男  |   牙买加   |      100米、200米       |
 | **[艾莉森·菲利克斯](./Athlete/Women/Sprinter/Allyson-Felix/Profile.md)** |  女  |    美国    |      200米、400米       |
-|                         大卫·鲁迪沙                          |  男  |   肯尼亚   |          800米          |
+| **[大卫·鲁迪沙](./Athlete/Men/Middle-Distance/David-Rudisha/Profile.md)** |  男  |   肯尼亚   |          800米          |
 
 # 田联历年奖项设置
 
