@@ -2,7 +2,7 @@
 
 该奖项由美国体育杂志《田径新闻》颁发给田径运动员，从1959年开始，当时只颁发给男性，从1974年开始颁发给女性，每年男女各一位，由该杂志组织的国际田径专家评审团选出获奖者。本文列举从1980年开始的名单。
 
-## [首页](../../README.md)
+<b>[首页](../../README.md)</b>
 
 - 注：2020年没有年度最佳运动员，取而代之的是MVP奖项
 
@@ -52,3 +52,6 @@
 | 2021 |   莱恩·克劳瑟<br/>Ryan Crouser   |        美国         |    伊莱恩·汤普森-赫拉<br/>Elaine Thompson-Herah    |        牙买加        |
 | 2022 |  阿曼德·杜普兰蒂斯<br/>Armand Duplantis  |        瑞典         | 西德尼·麦克劳克林<br/>Sydney Mclaughlin |         美国         |
 | 2023 |     莱恩·克劳瑟<br/>Ryan Crouser     |        美国         | 费斯·基普耶根<br/>Faith Kipyegon |        肯尼亚        |
+| 2024 | 阿曼德·杜普兰蒂斯<br>Armand Duplatis | 瑞典 | 西德尼·麦克劳克林<br/>Sydney Mclaughlin | 美国 |
+
+<b>[首页](../../README.md)</b>
