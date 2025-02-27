@@ -12,7 +12,7 @@
 
 ## 中长跑
 
-<b>[点击此处跳转](./Short-Distance-ALL.md)</b>
+<b>[点击此处跳转](./Middle-Distance-ALL.md)</b>
 
 包含800米、1500米、5000米、10000米
 
