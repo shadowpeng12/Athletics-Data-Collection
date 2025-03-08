@@ -21,4 +21,4 @@
 
 # [个人最佳](./Personal-Best.md) | [荣誉列举](./Honors.md) | [成绩汇总](./Results.md) | [常用统计](./Stats.md)
 
-# [首页◀](../../../../README.md)
+# [首页](../../../../README.md)
